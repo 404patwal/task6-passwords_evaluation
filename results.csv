@@ -1,0 +1,9 @@
+Label,Example Password,Length,Char Types,Score,Strength,Notes
+PW1,password,8,lower,5,Very Weak,Common dictionary word
+PW2,Summer2025,10,lower+Upper+digits,22,Weak,Predictable (season+year)
+PW3,P@ssw0rd123,11,lower+upper+digits+symbol,35,Weak/Moderate,Leetspeak + digits at end
+PW4,BlueCar&99,9,lower+Upper+digits+symbol,47,Moderate,Contains dictionary word + numbers
+PW5,Tr0ub4dor&3,11,mixed,62,Moderate-Strong,Leetspeak style but still patterned
+PW6,7uN3$!kL9b#,11,random mix,78,Strong,Good randomness
+PW7,MyDogRexIsCute!,16,mixed+phrase,85,Strong,Passphrase easy to remember
+PW8,CorrectHorseBatteryStaple!2025,29,mixed+phrase+digits,95,Very Strong,Long passphrase with symbols
